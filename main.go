@@ -27,7 +27,7 @@ func main(){
 	}
 	//为它添加内容
 	for i:=0;i<10;i++{
-		temstdent:=(i,fmt.	Sprintf("format:stu%02ds,i"))
+		temstdent:=(i,fmt.	Sprintf("format:stus%02ds,i"))
 		c1.Students=append(c1.Students,temstdent)
 
 	}
