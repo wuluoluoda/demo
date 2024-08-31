@@ -1,0 +1,44 @@
+{"level":"INFO","time":"2024-08-15T18:24:55.799+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-15T18:25:02.740+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-15T18:29:47.580+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-15T18:31:19.944+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-15T18:32:46.890+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-19T20:08:31.846+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-19T20:10:11.134+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-19T20:30:19.059+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2024-08-19T20:41:21.490+0800","caller":"controller/user.go:33","msg":"mysql.Register() failed","error":"Error 1146: Table 'bluebell_pre.user' doesn't exist"}
+{"level":"INFO","time":"2024-08-19T20:58:07.024+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2024-08-19T20:58:25.048+0800","caller":"controller/user.go:33","msg":"mysql.Register() failed","error":"Error 1146: Table 'bluebell_pre.user' doesn't exist"}
+{"level":"ERROR","time":"2024-08-19T21:04:58.957+0800","caller":"controller/user.go:33","msg":"mysql.Register() failed","error":"Error 1146: Table 'bluebell_pre.user' doesn't exist"}
+{"level":"INFO","time":"2024-08-19T21:33:15.515+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-20T16:43:28.511+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-20T16:47:59.235+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2024-08-20T17:16:06.506+0800","caller":"controller/community.go:28","msg":"mysql.GetCommunityByID() failed","error":"无效的ID"}
+{"level":"ERROR","time":"2024-08-20T17:16:13.457+0800","caller":"controller/community.go:28","msg":"mysql.GetCommunityByID() failed","error":"无效的ID"}
+{"level":"ERROR","time":"2024-08-20T17:16:34.756+0800","caller":"controller/community.go:28","msg":"mysql.GetCommunityByID() failed","error":"无效的ID"}
+{"level":"INFO","time":"2024-08-21T10:34:21.650+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-21T10:52:08.095+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2024-08-21T10:59:41.296+0800","caller":"logic/post.go:47","msg":"mysql.GetPostByID(postID) failed","post_id":"1","error":"无效的ID"}
+{"level":"ERROR","time":"2024-08-21T10:59:41.296+0800","caller":"controller/post.go:74","msg":"logic.GetPost(postID) failed","postId":"1","error":"无效的ID"}
+{"level":"INFO","time":"2024-08-21T11:30:12.309+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-21T12:21:56.337+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-21T13:13:46.429+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-21T15:58:50.097+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-21T16:13:36.654+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2024-08-21T16:15:45.180+0800","caller":"logic/post.go:47","msg":"mysql.GetPostByID(postID) failed","post_id":"1","error":"无效的ID"}
+{"level":"ERROR","time":"2024-08-21T16:15:45.180+0800","caller":"controller/post.go:74","msg":"logic.GetPost(postID) failed","postId":"1","error":"无效的ID"}
+{"level":"INFO","time":"2024-08-21T16:35:07.839+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-21T16:35:32.291+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-21T17:59:02.997+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-21T18:11:56.138+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2024-08-21T18:12:22.328+0800","caller":"mysql/comment.go:18","msg":"insert comment failed","error":"Error 1054: Unknown column 'post_id' in 'field list'"}
+{"level":"ERROR","time":"2024-08-21T18:12:22.329+0800","caller":"controller/comment.go:42","msg":"mysql.CreatePost(&post) failed","error":"插入数据失败"}
+{"level":"INFO","time":"2024-08-21T18:14:34.954+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2024-08-21T18:24:31.983+0800","caller":"mysql/comment.go:18","msg":"insert comment failed","error":"Error 1054: Unknown column 'question_id' in 'field list'"}
+{"level":"ERROR","time":"2024-08-21T18:24:31.983+0800","caller":"controller/comment.go:42","msg":"mysql.CreatePost(&post) failed","error":"插入数据失败"}
+{"level":"INFO","time":"2024-08-21T18:25:27.335+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-22T11:05:19.801+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-22T11:24:28.006+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-22T11:28:08.650+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-22T11:30:42.343+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2024-08-24T19:01:32.284+0800","caller":"logger/logger.go:44","msg":"init logger success"}
