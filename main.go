@@ -8,7 +8,7 @@ func helloworld() {
 
 // ////////eeeeeeeee
 func main() {
-	fmt.Println("demoaddxxxxx")
+	fmt.Println("demoaddxxxx2")
 }
 
 ///4rtrrttrrtrttr
