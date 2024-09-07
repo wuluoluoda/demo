@@ -7,6 +7,6 @@ func helloworld() {
 }
 
 func main() {
-	fmt.Println("demostudy")
+	fmt.Println("demostudy2")
 	helloworld()
 }
